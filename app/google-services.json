@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512161958925",
+    "project_id": "loginkotlin-51a8f",
+    "storage_bucket": "loginkotlin-51a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512161958925:android:aa0268efb99097322cd944",
+        "android_client_info": {
+          "package_name": "com.example.loginkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkgGVY3-0kHsbmO8k4Av6KalHSapQhDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

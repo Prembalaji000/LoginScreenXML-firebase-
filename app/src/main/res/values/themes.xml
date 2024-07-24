@@ -1,0 +1,15 @@
+<resources>
+    <style name="Base.Theme.LoginKotlin" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorOnPrimary">@color/green</item>
+        <item name="android:statusBarColor">@color/green</item>
+    </style>
+
+    <style name="Theme.LoginKotlin" parent="Base.Theme.LoginKotlin" />
+
+    <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/yellow</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/snapchat</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.LoginKotlin</item>
+    </style>
+</resources>
